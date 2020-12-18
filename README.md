@@ -1,4 +1,4 @@
-#### Hi, I'm Roopam 
+
 
 <!--<h4 align="center"><img src="/resources/mocha%20latte.gif" width="50px"/></h4>
 <p align="center">ᵢ dᵣᵢₙₖ ₐₙd cₒdₑ ⱼₐᵥₐ, wₕₐₜ ₘₒᵣₑ cₐₙ yₒᵤ ₐₛₖ fₒᵣ?</p> -->
