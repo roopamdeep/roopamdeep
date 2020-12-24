@@ -11,9 +11,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roopamdeep&label=Profile%20views&color=0e75b6&style=flat" alt="roopamdeep" /> </p>
 
-- 🌱 I’m currently learning **Angular, Java, Springboot, Python.**
+- 🌱 I’m currently learning **Angular, Springboot, Python.**
 
-- 💬 Ask me about **React, NodeJS**
+- 💬 Ask me about **React, NodeJS, Java, Javascript**
 
 - 📫 How to reach me **roopam_kaur@yahoo.in**
 
