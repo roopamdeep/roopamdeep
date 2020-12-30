@@ -7,7 +7,7 @@
 
 
 <h1 align="center"> SOFTWARE DEVELOPER </h1>
-<h3 align="center">Full Stack Developer | MERN Stack Developer | Abstract Thinker</h3>
+<h3 align="center">Full Stack Developer | MERN Stack Developer | Abstract Thinker </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roopamdeep&label=Profile%20views&color=0e75b6&style=flat" alt="roopamdeep" /> </p>
 
