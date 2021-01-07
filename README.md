@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Angular, Python.**
 
-- 💬 Ask me about **Javascript, React, NodeJS, Java**
+- 💬 Ask me about **Javascript, React, NodeJS, ExpressJS, Java, MongoDB, Jest **
 
 - 📫 How to reach me **roopam_kaur@yahoo.in**
 
