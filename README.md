@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roopam</h1>
-<h4 align="center"><img src="/resources/mocha%20latte.gif" width="50px"/></h4>	<!--<h4 align="center"><img src="/resources/mocha%20latte.gif" width="50px"/></h4>
-
+4 align="center"><img src="/resources/mocha%20latte.gif" width="50px"/></h4>	
 <h3 align="center">A passionate software developer</h3>
-
+<h
 - 🌱 I’m currently learning **Angular, Django**
 
 - 💬 Ask me about **MERN Stack**
