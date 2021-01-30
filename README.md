@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roopam</h1>
 
-<h4 align="center"><img src="/resources/N2j1.gif" width="350px" height="250px"/></h4>
+<h4 align="center"><img src="/resources/N2j1.gif" width="350px" height="180px"/></h4>
 
 
 <h3 align="center">A passionate software developer</h3>
