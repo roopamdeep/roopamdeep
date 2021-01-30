@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Roopam</h1>
 
 <h3 align="center">A passionate software developer</h3>
-<h
-- 🌱 I’m currently learning **Angular, Django**
+<h3- 🌱 I’m currently learning **Angular, Django**
 
 - 💬 Ask me about **MERN Stack**
 
