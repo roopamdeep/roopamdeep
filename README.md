@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roopam</h1>
+<h4 align="center"><img src="/resources/mocha%20latte.gif" width="50px"/></h4>	<!--<h4 align="center"><img src="/resources/mocha%20latte.gif" width="50px"/></h4>
+
 <h3 align="center">A passionate software developer</h3>
 
 - 🌱 I’m currently learning **Angular, Django**
@@ -18,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roopamdeep&show_icons=true&locale=en&layout=compact&hide=python" alt="roopamdeep" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roopamdeep&show_icons=true&locale=en" alt="roopamdeep" /></p>
+
+
