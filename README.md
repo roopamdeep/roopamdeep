@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer</h3>
 <h4 align="center"><img src="/resources/N2j1.gif" width="350px" height="180px"/></h4>
 
-- 🌱 I’m currently learning **Angular, Django**
+- 🌱 I’m currently learning **Working on Manchestor City Project based on React**
 
 - 💬 Ask me about **MERN Stack**
 
