@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <h4 align="center"><img src="/resources/N2j1.gif" width="350px" height="180px"/></h4>
 
-- 🌱 I’m currently learning **Working on Manchestor City Project based on React**
+- 🌱 I’m currently learning **Working on .NET MVC, Azure DevOps**
 
 - 💬 Ask me about **MERN Stack**
 
