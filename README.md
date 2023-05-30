@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Working on .NET MVC, Azure DevOps**
 
-- 💬 Ask me about **ASP.NET Razor · .NET Core · ASP.NET Web API · ASP.NET MVC · Microsoft Azure · Azure Active Directory · Azure API Management · Azure Key Vault · Azure DevOps · React.js · .NET Framework · C# · HTML5 · Cascading Style Sheets (CSS) · JavaScript · SQL · Postman API · MongoDB**
+- 💬 Ask me about **Javascript(ES6) · .NET Core · ASP.NET Web API · ASP.NET MVC · Microsoft Azure · Azure Active Directory · Azure API Management · Azure Key Vault  · React.js · .NET Framework · C# · HTML5 · Cascading Style Sheets (CSS) ·  SQL · Postman API · MongoDB**
 
 - 📫 How to reach me **roopam_kaur@yahoo.in**
 
