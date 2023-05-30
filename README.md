@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <h4 align="center"><img src="/resources/N2j1.gif" width="350px" height="180px"/></h4>
 
-- 🌱 I’m currently learning **Working on .NET MVC, Azure DevOps**
+- 🌱 I’m currently learning **Working on Azure DevOps**
 
 - 💬 Ask me about **Javascript(ES6) · .NET Core · ASP.NET Web API · ASP.NET MVC · Microsoft Azure · Azure Active Directory · Azure API Management · Azure Key Vault  · React.js · .NET Framework · C# · HTML5 · Cascading Style Sheets (CSS) ·  SQL · Postman API · MongoDB**
 
