@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **Javascript(ES6) · .NET Core · ASP.NET Web API · ASP.NET MVC · Microsoft Azure · Azure Active Directory · Azure API Management · Azure Key Vault  · React.js · .NET Framework · C# · HTML5 · Cascading Style Sheets (CSS) ·  SQL · Postman API · MongoDB**
 
-- 📫 How to reach me **roopam_kaur@yahoo.in**
+- 📫 How to reach me **roopamdeep.concordia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
