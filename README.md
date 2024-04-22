@@ -2,9 +2,9 @@
 <h3 align="center">Full Stack Developer</h3>
 <h4 align="center"><img src="/resources/N2j1.gif" width="350px" height="180px"/></h4>
 
-- 🌱  I am an experienced full-stack software engineer, specializing in C# .NET on the backend and the modern JavaScript stack (TypeScript + React) on the frontend. In the last years, I have gained experience with the Azure DevOps platform as well as modern client-side frameworks, particularly React.
+- 🌱  I am an experienced full-stack software engineer, specializing in NodeJS, ExpressJs on the backend and the modern JavaScript stack (TypeScript + React) along with Redux on the frontend. In the last years, I have gained experience with the Azure DevOps platform as well as modern client-side frameworks, particularly React with NextJs
 
-- 💬 Ask me about **Javascript(ES6) · .NET Core · ASP.NET Web API · ASP.NET MVC · Microsoft Azure · Azure Active Directory · Azure API Management · Azure Key Vault  · React.js · NodeJS · .NET Framework · C# · HTML5 · Cascading Style Sheets (CSS) ·  SQL · Postman API · MongoDB**
+- 💬 Ask me about **Javascript(ES6) · Typescript · React ·  NodeJS · ExpressJs · Redux · HTML5 · Cascading Style Sheets (CSS) ·  NextJs ·  SQL · Postman API · MongoDB**
   
 👀 I’m interested everything related to the cloud and improving software deployments through CI/CD in Azure DevOps.
 🌱 I’m currently learning more about enterprise architecture in the context of microservices.
