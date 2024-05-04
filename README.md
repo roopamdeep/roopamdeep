@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roopam</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer | Frontend Developer</h3>
 <h4 align="center"><img src="/resources/N2j1.gif" width="350px" height="180px"/></h4>
 
 - 🌱  I am an experienced full-stack software developer or sometimes specifically frontend developer, specializing in NodeJS, ExpressJs on the backend and the modern JavaScript stack (TypeScript + React) along with Redux on the frontend. In the last years, I have gained experience with the Azure DevOps platform as well as modern client-side frameworks, particularly React with NextJs
