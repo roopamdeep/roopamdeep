@@ -4,7 +4,7 @@
 
 - 🌱  I am an experienced full-stack software developer or sometimes specifically frontend developer, specializing in NodeJS, ExpressJs on the backend and the modern JavaScript stack (TypeScript + React) along with Redux on the frontend. In the last years, I have gained experience with the Azure DevOps platform as well as modern client-side frameworks, particularly React with NextJs
 
-- 💬 Ask me about **Javascript(ES6) · Typescript · React ·  NodeJS · ExpressJs · Redux · HTML5 · Cascading Style Sheets (CSS) ·  NextJs ·  SQL · Postman API · MongoDB**
+- 💬 Ask me about **Javascript(ES6) · Typescript · React ·  NodeJS · ExpressJs · Redux · React Query · HTML5 · Cascading Style Sheets (CSS) ·  NextJs ·  SQL · Postman API · MongoDB**
   
 👀 I’m interested everything related to the cloud and improving software deployments through CI/CD in Azure DevOps.
 🌱 I’m currently learning more about enterprise architecture in the context of microservices.
