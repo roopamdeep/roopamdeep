@@ -3,7 +3,7 @@
 <h4 align="center"><img src="/resources/N2j1.gif" width="350px" height="180px"/></h4>
 
 - 🌱  I am an experienced full-stack software developer, specializing in NodeJS, ExpressJs on the backend and the modern JavaScript stack (TypeScript + React) along with Redux on the frontend. In the last years, I have gained experience with the Azure DevOps platform as well as modern client-side frameworks, particularly React with NextJs
-
+- 🌱  My Portfolio -  www.roopamdeep.dev
 - 💬 Ask me about **Javascript(ES6) · Typescript · React ·  NodeJS · ExpressJs · Redux · React Query · HTML5 · Cascading Style Sheets (CSS) · AWS · Azure · NextJs ·  SQL · Postman API · MongoDB**
   
 👀 I’m interested everything related to the cloud and improving software deployments through CI/CD in Azure DevOps.
