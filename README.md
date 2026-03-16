@@ -19,6 +19,13 @@
 
 <br/>
 
-## 👨‍💻 About Me
-```typescriptsrc="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </p>
+👨‍💻 About Me
+
+I'm a Full Stack Developer specializing in building production-grade web applications with modern technologies. I focus on clean architecture, scalable backends, and AI integration.
+
+- 🔭 Currently building AI-powered full stack applications
+- 🌱 Exploring microservices, GraphQL, and Python FastAPI
+- 💡 Passionate about clean code, system design, and DevOps
+- 🎯 Targeting mid-level full stack roles**
+- 📍 Based in Toronto, Ontario, Canada**
 
