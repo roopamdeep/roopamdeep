@@ -29,3 +29,14 @@ I'm a Full Stack Developer specializing in building production-grade web applica
 - 🎯 Targeting mid-level full stack roles**
 - 📍 Based in Toronto, Ontario, Canada**
 
+What I work with:
+
+Languages:   TypeScript · JavaScript
+Frontend:    React · Next.js · Tailwind CSS · Redux
+Backend:     Node.js · Express · REST APIs · JWT
+Database:    PostgreSQL · MongoDB · Prisma · Redis
+Cloud:       AWS S3 · Vercel · Neon
+DevOps:      Docker · GitHub Actions · CI/CD
+AI:          OpenAI API · Claude API
+Real Time:   Socket.io · WebSockets
+Testing:     Jest · Supertest
