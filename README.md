@@ -1,22 +1,24 @@
-<h1 align="center">Hi 👋, I'm Roopam</h1>
-<h3 align="center">Full Stack Developer | Frontend Developer</h3>
-<h4 align="center"><img src="/resources/N2j1.gif" width="350px" height="180px"/></h4>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Roopam;Full+Stack+Developer;Building+real+products+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
 
-- 🌱  I am an experienced full-stack software developer, specializing in NodeJS, ExpressJs on the backend and the modern JavaScript stack (TypeScript + React) along with Redux on the frontend. In the last years, I have gained experience with the Azure DevOps platform as well as modern client-side frameworks, particularly React with NextJs
-- 🌱  My Portfolio -  www.roopamdeep.dev
-- 💬 Ask me about **Javascript(ES6) · Typescript · React ·  NodeJS · ExpressJs · Redux · React Query · HTML5 · Cascading Style Sheets (CSS) · AWS · Azure · NextJs ·  SQL · Postman API · MongoDB**
-  
-👀 I’m interested everything related to the cloud and improving software deployments through CI/CD in Azure DevOps.
-🌱 I’m currently learning more about enterprise architecture in the context of microservices.
+<br/>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=roopamdeep&label=Profile%20views&color=6366f1&style=flat" alt="profile views" />
+  <a href="https://linkedin.com/in/roopamdeep">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="linkedin"/>
+  </a>
+  <a href="mailto:roopamdeep.concordia@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="gmail"/>
+  </a>
+  <a href="https://roopamdeep.dev">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat&logo=google-chrome&logoColor=white" alt="portfolio"/>
+  </a>
+</div>
 
-- 📫 How to reach me **roopamdeep.concordia@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/roopamdeep" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="roopamdeep" height="48" width="48" background-color="white" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://redux.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_redux/js_redux-icon.svg" alt="redux" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/><a href="https://nextjs.org/" target="_blank"> <img src="http://www.w3.org/2000/svg" alt="nextjs" width="40" height="40"/> </a><a href="https://typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="typescript" width="40" height="40"/> </a><a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </p>
+## 👨‍💻 About Me
+```typescriptsrc="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </p>
 
