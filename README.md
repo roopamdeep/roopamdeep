@@ -23,15 +23,15 @@
 
 I'm a Full Stack Developer specializing in building production-grade web applications with modern technologies. I focus on clean architecture, scalable backends, and AI integration.
 
-🔭 Currently building Kanflow — a real-time Kanban board with WebSocket-powered live collaboration
+🔭 Currently building Kanflow, a real-time Kanban board with WebSocket-powered live collaboration
 🌱 Exploring WebSockets, Socket.io, and real-time distributed systems
 💡 Passionate about clean code, system design, and building products that solve real problems
 🎯 Targeting mid-level full stack roles
 📍 Based in Toronto, Ontario, Canada
 
-What I work with:
 
 What I work with:
+
 Languages: TypeScript · JavaScript · Python · SQL
 Frontend: React · Next.js · Tailwind CSS · Zustand · Recharts
 Backend: Node.js · Express · FastAPI · REST APIs · JWT
