@@ -32,9 +32,9 @@ I'm a Full Stack Developer specializing in building production-grade web applica
 
 What I work with:
 
-Languages: TypeScript · JavaScript · Python · SQL
-Frontend: React · Next.js · Tailwind CSS · Zustand · Recharts
-Backend: Node.js · Express · FastAPI · REST APIs · JWT
+Languages: TypeScript · JavaScript · Python · SQL · C#
+Frontend: Angular · React · Next.js · Tailwind CSS · Zustand · Recharts
+Backend: Node.js · Express · ASP.NET MVC · Entity Framework · FastAPI · REST APIs · JWT
 Database: PostgreSQL · Prisma
 Cloud: AWS S3 · Vercel · Neon · Railway
 AI: OpenAI API
