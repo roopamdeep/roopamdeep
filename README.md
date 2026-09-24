@@ -23,8 +23,8 @@
 
 I'm a Full Stack Developer specializing in building production-grade web applications with modern technologies. I focus on clean architecture, scalable backends, and AI integration.
 
-🔭 Currently building Kanflow, a real-time Kanban board with WebSocket-powered live collaboration
-🌱 Exploring WebSockets, Socket.io, and real-time distributed systems
+🔭 Currently building CoverCard, a digital proof-of-insurance platform with real-time policy updates
+🌱 Exploring system design and agentic AI workflows
 💡 Passionate about clean code, system design, and building products that solve real problems
 🎯 Targeting mid-level full stack roles
 📍 Based in Toronto, Ontario, Canada
@@ -32,11 +32,10 @@ I'm a Full Stack Developer specializing in building production-grade web applica
 
 What I work with:
 
-Languages: TypeScript · JavaScript · Python · SQL · C#
-Frontend: Angular · React · Next.js · Tailwind CSS · Zustand · Recharts
-Backend: Node.js · Express · ASP.NET MVC · Entity Framework · FastAPI · REST APIs · JWT
-Database: PostgreSQL · Prisma
-Cloud: AWS S3 · Vercel · Neon · Railway
-AI: OpenAI API
+Languages: TypeScript · JavaScript(ES6+) · SQL 
+Frontend: React · Next.js · Tailwind CSS · Zustand · Recharts
+Backend: Node.js · Express · MongoDB · PostgreSQL· FastAPI · REST APIs · JWT· Prisma
+Cloud: AWS S3 · Vercel · Neon · Railway · Docker · Azure· Github Actions
+AI: Claude Code· OpenAI API
 Payments: Stripe · Plaid
 Real Time: Socket.io · WebSockets
