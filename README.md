@@ -19,23 +19,22 @@
 
 <br/>
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 I'm a Full Stack Developer specializing in building production-grade web applications with modern technologies. I focus on clean architecture, scalable backends, and AI integration.
 
-🔭 Currently building CoverCard, a digital proof-of-insurance platform with real-time policy updates
-🌱 Exploring system design and agentic AI workflows
-💡 Passionate about clean code, system design, and building products that solve real problems
-🎯 Targeting mid-level full stack roles
-📍 Based in Toronto, Ontario, Canada
+- 🔭 Currently building **CoverCard**, a digital proof-of-insurance platform with real-time policy updates
+- 🌱 Exploring system design and agentic AI workflows
+- 💡 Passionate about clean code, system design, and building products that solve real problems
+- 🎯 Targeting mid-level full stack roles
+- 📍 Based in Toronto, Ontario, Canada
 
+## What I Work With
 
-What I work with:
-
-Languages: TypeScript · JavaScript(ES6+) · SQL 
-Frontend: React · Next.js · Tailwind CSS · Zustand · Recharts
-Backend: Node.js · Express · MongoDB · PostgreSQL· FastAPI · REST APIs · JWT· Prisma
-Cloud: AWS S3 · Vercel · Neon · Railway · Docker · Azure· Github Actions
-AI: Claude Code· OpenAI API
-Payments: Stripe · Plaid
-Real Time: Socket.io · WebSockets
+- **Languages:** TypeScript · JavaScript (ES6+) · SQL
+- **Frontend:** React · Next.js · Tailwind CSS · Zustand · Recharts
+- **Backend:** Node.js · Express · MongoDB · PostgreSQL · FastAPI · REST APIs · JWT · Prisma
+- **Cloud:** AWS S3 · Vercel · Neon · Railway · Docker · Azure · GitHub Actions
+- **AI:** Claude Code · OpenAI API
+- **Payments:** Stripe · Plaid
+- **Real Time:** Socket.io · WebSockets
